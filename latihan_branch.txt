@@ -1,2 +1,3 @@
 Ini adalah branch/cabang dari master
-branch master(Base branch)
+branch master(Base branch) adalah branch utama dalam repository ini
+
